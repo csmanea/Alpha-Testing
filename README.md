@@ -21,3 +21,5 @@ commit 4:42
 NEW CHANGE< NO PULL>`
 
 NEW COMMIT THROUGH PUSH COMMIT
+
+test 5:07 (commit through command pallete)
