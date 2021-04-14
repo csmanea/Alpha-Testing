@@ -25,3 +25,5 @@ NEW COMMIT THROUGH PUSH COMMIT
 test 5:07 (commit through command pallete)
 
 TEst nou 2:08
+
+failed
