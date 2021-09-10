@@ -11,11 +11,14 @@ test 4:25 Cristian
 
 test 4:28 Cristi
 
+trest
 
 I WANt TO COMMMMMIT TO SILVIA
 
 commit 4:42
 \
+sa
+
 
 
 NEW CHANGE< NO PULL>`
@@ -27,3 +30,5 @@ test 5:07 (commit through command pallete)
 TEst nou 2:08
 
 failed
+
+test septembrie
